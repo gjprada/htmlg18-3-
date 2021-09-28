@@ -1,0 +1,48 @@
+body{
+	background-color: palevioletred;
+	background-image: url("imagenes/imagen html index c1.png");
+	background-repeat: no-repeat;
+	<!--background-->
+}
+#formulario{
+	margin: 0 auto;
+	width: 400px;
+	background-color: yellowgreen;
+	margin-top: 200px;
+	padding: 30px;
+	border: px 5px solid orange;
+	border-radius: 15px;
+}
+#formulario{
+	margin: 0 auto;
+	width: 400px;
+}
+#formulario{
+	margin: 0 auto;
+	width: 400px;
+}
+
+#formulario{
+	margin: 0 auto;
+	width: 400px;
+}
+.campos{margin-top: 10px;
+}
+#botones{
+	margin-top: 30px;
+	margin-left: 150px}
+
+#formulario input[type="submit"], #formulario input[type="reset"]{
+	width: 100px;
+	background-color: orange;
+	color: white;
+	border-color: orange;
+	cursor: pointer;
+}
+#formulario input[type="submit"]:hover, #formulario input[type="reset"]:hover{
+	width: 100px;
+	background-color: white;
+	color: orange;
+	border-color: orange;
+	
+}
